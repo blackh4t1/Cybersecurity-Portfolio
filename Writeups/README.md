@@ -1,6 +1,7 @@
 # Documentation of labs (TryHackMe, Hack The Box, PortSwigger)
 
 ** DOCUMENTATION TEMPLATE:
+
 Objective: What was the goal of the lab?
 
 Vulnerability: What did you find? (e.g., Reflected Cross-Site Scripting via Search Bar)
