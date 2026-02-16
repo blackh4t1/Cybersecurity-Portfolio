@@ -4,6 +4,7 @@
 ### 🛡️ Cybersecurity Graduate | Aspiring Offensive Security Professional
 I hold a **B.S. in Cybersecurity** and am currently dedicated to mastering the art of ethical hacking and bug bounty hunting. My goal is to bridge the gap between academic theory and high-impact security research. Overall, I aspire to be the best at what I do. 
 
+![HackTheBox](https://www.hackthebox.eu/badge/image/YOUR_ID)
 ---
 
 ## 🎯 Current Path
