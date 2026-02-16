@@ -4,7 +4,9 @@
 ### 🛡️ Cybersecurity Graduate | Aspiring Offensive Security Professional
 I hold a **B.S. in Cybersecurity** and am currently dedicated to mastering the art of ethical hacking and bug bounty hunting. My goal is to bridge the gap between academic theory and high-impact security research. Overall, I aspire to be the best at what I do. 
 
+**UPDATE*
 ![HackTheBox](https://www.hackthebox.eu/badge/image/YOUR_ID)
+![TryHackMe](https://tryhackme-badges.s3.amazonaws.com/YOUR_USERNAME.png)
 ---
 
 ## 🎯 Current Path
@@ -21,6 +23,8 @@ I hold a **B.S. in Cybersecurity** and am currently dedicated to mastering the a
 * [**Web Hacking Writeups**](./Writeups/Web/README.md) - Deep dives into IDORs, SQLi, and logic flaws.
 * [**Network Labs**](./Writeups/Network/README.md) - Active Directory exploitation and pivoting.
 * [**Custom Scripts**](./Tools-and-Scripts/README.md) - Python tools for recon and automation.
-
+* [**Certifications**](./Certifications/README.md) - My credentials
+* [**Bug Bounties Reports**](./Bug-Bounty-Reports/README.md) - Reports from bug bounties I have worked on.
 ---
+**UPDATE*
 📫 **Connect with me:** [Your LinkedIn Link] | amador11194@hotmail.com
