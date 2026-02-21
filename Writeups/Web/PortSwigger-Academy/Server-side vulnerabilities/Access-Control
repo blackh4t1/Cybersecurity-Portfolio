@@ -1,0 +1,7 @@
+# Unprotected admin functionality
+  **Sensitive functionality
+  - append /robots.txt to end of URL
+  - Discloses /administrator-panel , replace /robots.txt with /administrator-panel
+    - allows deletion of user
+  **Continued
+    -URL might be disclosed in javascript 
