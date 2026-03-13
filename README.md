@@ -28,4 +28,4 @@ I hold a **Bachelor of Science in Cybersecurity** from the University of Nebrask
 * [**Bug Bounties Reports**](./Bug-Bounty-Reports/README.md) - Reports from bug bounties I have worked on.
 ---
 **UPDATE*
-📫 **Connect with me:** [Your LinkedIn Link] | amador11194@hotmail.com
+📫 **Connect with me:** [www.linkedin.com/in/cesar-amador-quinonez-b395b227a] | amador11194@hotmail.com
