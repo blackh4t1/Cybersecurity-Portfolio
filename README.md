@@ -3,7 +3,7 @@
 
 ### 🛡️ Cybersecurity Graduate | Aspiring Offensive Security Professional
 ## 🚀 About Me
-I hold a **Bachelor of Science in Cybersecurity** from the University of Nebraska Omaha in which I graduated in May 2023. I and am currently dedicated to mastering the art of ethical hacking and bug bounty hunting. My goal is to bridge the gap between academic theory and high-impact security research through hands-on training and real-world experience. Overall, I aspire to be the best at what I do. 
+I hold a **Bachelor of Science in Cybersecurity** from the University of Nebraska Omaha in which I graduated in May 2023. I and am currently dedicated to mastering the art of ethical hacking and bug bounty hunting. My goal is to bridge the gap between academic theory and high-impact security research through hands-on training and real-world experience. Overall, I aspire to be the best at what I do with great determination and ambition. 
 
 **UPDATE*
 ![HackTheBox](https://www.hackthebox.eu/badge/image/YOUR_ID)
