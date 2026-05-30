@@ -1,9 +1,10 @@
 # Cybersecurity-Portfolio
  # Hi, I'm Cesar Amador Quinonez
 
+
 ### 🛡️ Cybersecurity Graduate | Aspiring Offensive Security Professional
 ## 🚀 About Me
-I hold a **Bachelor of Science in Cybersecurity** from the University of Nebraska Omaha in which I graduated in May 2023. I and am currently dedicated to mastering the art of ethical hacking and bug bounty hunting. My goal is to bridge the gap between academic theory and high-impact security research through hands-on training and real-world experience. Overall, I aspire to be the best at what I do with great determination and ambition. 
+Hi! My name is Cesar Amador Quinonez. I hold a Bachelor's of Science in Cybersecurity with a minor in Computer Science from the University of Nebraska Omaha in which I graduated in May 2025. I am currently dedicated with an open mind and possibilities to mastering the art of penetration testing, ethical hacking, reverse engineering and bug bounty hunting. My goal is to bridge the gap between academic theory and high-impact security research through hands-on training and real-world experience.  I am currently pursuing the OSCP (Offensive Security Certified Professional) certification and actively working to increase my skillset by practicing hands-on websites like Hackthebox by working through CWES (Web Penetration Tester Job Role Path on HTB) , CPTS (Penetration Tester Job Role Path on HTB) path in preparation, also including websites like Bugcrowd, and HackerOne, etc. I have also actively set up VMs on a linux and windows environment to do the following mentioned and to practice reverse engineering through tools like IDA pro and Ghidra, working through CrackMes (binaries). 
 
 **UPDATE*
 ![HackTheBox](https://www.hackthebox.eu/badge/image/YOUR_ID)
