@@ -15,7 +15,7 @@ I may not possess much job experience that may be suited exactly for the role bu
 
 ## 🎯 Current Path
 * **Certification:** Currently pursuing the **OSCP** (Offensive Security Certified Professional).
-* **Specialization:**Cybersecurity**.
+* **Specialization:** **Cybersecurity**.
 * **Active Research:** Hunting on **HackerOne** and **Bugcrowd**, Researching, Studying, and Praciticing on hands-on websites to gain more credibility and experience.
 
 ## 🛠️ Technical Toolkit
