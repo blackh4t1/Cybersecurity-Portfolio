@@ -30,6 +30,6 @@ I may not possess much job experience that may be suited exactly for the role bu
 * [**Custom Scripts**](./Tools-and-Scripts/README.md) - Tools for recon and automation.
 * [**Certifications**](./Certifications/README.md) - My credentials
 * [**Bug Bounties Reports**](./Bug-Bounty-Reports/README.md) - Reports from bug bounties I have worked on.
-* [**HackThebox**](./HackTheBox/CWES) - My work on HackTheBox.
+* [**HackThebox**](./HackTheBox/) - My work on HackTheBox.
 ---
 📫 **Connect with me:** [www.linkedin.com/in/cesar-amador-quinonez-b395b227a] | amador11194@hotmail.com
