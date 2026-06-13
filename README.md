@@ -1,4 +1,5 @@
-# Cybersecurity-Portfolio
+# Cybersecurity-Portfolio & Computer Science
+**NEEDS UPDATED WITH RECENT PROJECTS AND PROGRAMS**
  # Hi, I'm Cesar Amador Quinonez
 
 
@@ -20,7 +21,7 @@ I may not possess much job experience that may be suited exactly for the role bu
 
 ## 🛠️ Technical Toolkit
 * **Languages:** Python, Java, C, Bash, SQL, Assembly langugage (x86), HTML, CSS.
-* **Tools:** Burp Suite, Nmap, Metasploit, Wireshark, IDAPro, Ghidra, OWASP Zap, John The Ripper, Autopsy, etc.
+* **Tools:** Eclipse, IntelliJ, Notepad++, Zed, jGRASP, Nano, Bash, Burp Suite, Nmap, Metasploit, Wireshark, IDAPro, Ghidra, OWASP Zap, John The Ripper, Autopsy, etc.
 * **Environments:** Kali Linux, Windows, Active Directory Labs, AWS/Azure Cloud.
 
 ## 📁 Portfolio Highlights
