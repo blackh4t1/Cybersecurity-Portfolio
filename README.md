@@ -34,4 +34,4 @@ I may not possess much job experience that may be suited exactly for the role bu
 * [**Bug Bounties Reports**](./Bug-Bounty-Reports/README.md) - Reports from bug bounties I have worked on.
 * [**HackThebox**](./HackTheBox/) - My work on HackTheBox.
 ---
-📫 **Connect with me:** [www.linkedin.com/in/cesar-amador-quinonez-b395b227a] | amador11194@hotmail.com
+📫 **Connect with me:** [www.linkedin.com/in/cesar-amador-quinonez-b395b227a] | amador11194@hotmail.com | 308-325-8958
